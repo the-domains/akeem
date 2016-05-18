@@ -1,14 +1,14 @@
-layout_spectrum: 1
+layout_spectrum: 0
 color:
-  saturation: 0.8243728
-  lightness: 0.6810036
-  brandStrength: 0.9390681
+  saturation: 0
+  lightness: 0
+  brandStrength: 0.2741936
   brandColors:
     - '#313139'
     - '#DA9876'
     - '#FFFFFB'
     - '#8E8A89'
     - '#9EB661'
-  rhythmicContrast: 0.9462366
-typography_spectrum: 0.8548387
+  rhythmicContrast: 0
+typography_spectrum: 0
 name: akeem
